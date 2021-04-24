@@ -8,14 +8,14 @@ import React from "react";
 export default function() {
   const [chains, setChains] = React.useState<Chain[]>([
     {
-      name: "Matic",
-      network: "mainnet",
-      rpc: ["https://rpc-mainnet.matic.network"],
+      name: "Dusty",
+      network: "testnet",
+      rpc: ["https://rpc.dusty.plasmnet.io:8545/"],
     },
     {
-      name: "Matic - Mumbai",
-      network: "testnet",
-      rpc: ["https://rpc-mumbai.matic.today"],
+      name: "Plasm",
+      network: "mainnet",
+      rpc: ["https://rpc.dusty.plasmnet.io:8545/"],
     },
   ]);
 
