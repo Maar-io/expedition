@@ -2,7 +2,6 @@
   "name": "@xops.net/expedition",
   "version": "1.0.0",
   "description": "Dusty EVM block explorer built on Expedition v1.0.2",
-  "homepage": "https://github.com/Maar-io/expedition",
   "keywords": [
     "typescript",
     "react",
